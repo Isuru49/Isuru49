@@ -32,4 +32,4 @@ Isuru Sandeepa</a></h1>
 
 </p>
 
-Credit: [Saurabh Chavan](https://github.com/Isuru49)
+Credit: [Isuru Sandeepa](https://github.com/Isuru49)
